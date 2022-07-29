@@ -25,7 +25,7 @@
 
 ## Completion Time
 
-- 3 Hours
+- 7-8 Hours (approx)
 
 ## Credits
 
