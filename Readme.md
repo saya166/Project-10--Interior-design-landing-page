@@ -6,7 +6,7 @@
 
 **[Click here](https://interior-design-landing-page-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
 
-## Key Features
+## Key Featuresgit
 
 **Interior Design Landing Page** is The sample webpage that is Designed with HTML5 and CSS-3.
 

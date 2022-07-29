@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Black+Han+Sans&family=Encode+Sans&family=Francois+One&family=Kaushan+Script&family=Merriweather+Sans:wght@800&family=Orbitron:wght@500;900&family=Roboto:wght@100;300&family=Shadows+Into+Light&family=Signika:wght@500;700&family=Varela&family=Volkhov:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+body {
+  background-image: url(./assets/bg-img.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-right: 5px solid white;
+}
+.navs {
+  margin-left: 90px;
+  margin-top: 30px;
+}
+.logo {
+  height: 46px;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+.list {
+  float: right;
+  margin-top: -70px;
+  margin-right: 350px;
+}
+.list-item {
+  display: inline;
+  padding: 15px 30px;
+  font-size: medium;
+  font-weight: bold;
+  color: white;
+}
+
+.call {
+  float: right;
+  margin-right: 90px;
+  display: flex;
+  flex-direction: row;
+  margin-top: -70px;
+  color: white;
+}
+.hr-line {
+  float: right;
+  margin-top: -20px;
+  margin-right: 85px;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+.main {
+  margin-top: 240px;
+  margin-left: 100px;
+}
+.heading {
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  margin-top: -90px;
+  font-size: 65px;
+  color: white;
+  font-weight: bolder;
+}
+.btn {
+  margin-top: 70px;
+}
+#btn1 {
+  padding: 10px;
+  width: 200px;
+  border-radius: 2rem;
+  border: 2px solid white;
+  color: white;
+  background-color: transparent;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.boxes {
+  margin-bottom: 150px;
+  padding-bottom: 150px;
+}
+.box1 {
+  border: 1px solid black;
+  width: 260px;
+  height: 130px;
+  padding: 15px;
+  float: right;
+
+  margin-top: -350px;
+  margin-right: 150px;
+  background-color: #98b1bd48;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.box2 {
+  font-weight: bold;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  border: 1px solid black;
+  width: 270px;
+  padding: 20px;
+  float: right;
+  margin-top: 15px;
+  margin-right: 400px;
+  background-color: #98b1bd48;
+  color: white;
+}
+
+#icon1 {
+  height: 30px;
+  width: 40px;
+  border: 1px solid black;
+  width: 55px;
+  border-radius: 2rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+#icon2 {
+  height: 25px;
+  width: 50px;
+  border: 1px solid black;
+  padding: 1px;
+  width: 60px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2rem;
+  margin-bottom: 10px;
+  background-color: white;
+}
+.symbol {
+  float: right;
+  margin-right: -113px;
+  margin-top: -75px;
+}
+#sym {
+  margin-top: 35.5px;
+  margin-left: 150px;
+}
