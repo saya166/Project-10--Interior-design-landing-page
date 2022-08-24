@@ -144,7 +144,7 @@ body {
 }
 #sym {
   margin-top: 35.5px;
-  margin-left: 150px;
+  margin-right: 100px;
 }
 
 @media screen and (max-width: 1200px) {
