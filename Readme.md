@@ -4,16 +4,17 @@
 
 ![Interior Design Landing Page](./Interior-design.png)
 
-**[Click here](https://interior-design-landing-page-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
+**[Click here](https://interior-design-landing-page-saya.netlify.app/) for the live demo of the webpage on [Netlify](https://www.netlify.com/).**
 
 ## Key Featuresgit
 
-**Interior Design Landing Page** is The sample webpage that is Designed with HTML5 and CSS-3.
+**Interior Design Landing Page** is The sample Responsive webpage that is Designed with HTML5 and CSS-3.
 
 - ### Font Used -
   - Roboto
 - ### Background Image -
   - From [rawpixel.com](https://www.rawpixel.com/)
+- `Media Queries` are used.
 - Icons are used from _canva_.
 - The website is hosted on _Netlify_.
 - The _LEARN MORE Button_ is made transparent.
